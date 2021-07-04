@@ -1,0 +1,5 @@
+
+Project: Using Tesseract for optical character recognition
+Developer: Chuong Hoa Loc
+Email: locchuong123@gmail.com
+Phone: (+84) 389703276
