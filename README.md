@@ -1,9 +1,8 @@
 # Computer-vision
-OpenCV. mediapipe,etc,..
+OpenCV,mediapipe,cvzone,etc,..
 ## 1/ Aruco Marker
 https://www.youtube.com/watch?v=t_EjML0Oyfc&t=394s
 ## 2/ Augmented Reality
-
 ## 3/ Blur Detection
 https://www.youtube.com/watch?v=t_EjML0Oyfc&t=394s
 ## 4/ Camera Calibration
