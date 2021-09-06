@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=t_EjML0Oyfc&t=394s
 https://www.youtube.com/watch?v=t_EjML0Oyfc&t=394s
 ## 10/ Tracking Object with Mask
 https://www.youtube.com/watch?v=t_EjML0Oyfc&t=394s
+## 11/ Virtual Keyboard
+![Capture (2)](https://user-images.githubusercontent.com/73679364/132263130-8e01ab68-60f3-43fd-858f-ec39bed82478.PNG)
