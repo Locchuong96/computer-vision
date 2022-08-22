@@ -22,3 +22,7 @@ OpenCV,mediapipe,etc.
 [10/ Tracking Object with Mask](https://github.com/Locchuong96/computer-vision/tree/main/Tracking%20object%20with%20mask)
 
 [11/ Virtual Keyboard](https://github.com/Locchuong96/computer-vision/tree/main/Virtual%20Keyboard)
+
+### References
+
+[Virtual reality](http://www.wzona.info/2014/02/artoolkit-ir-opencv-panaudojimas.html)
