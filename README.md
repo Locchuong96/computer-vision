@@ -25,4 +25,6 @@ OpenCV,mediapipe,etc.
 
 ### References
 
+[scikit image](https://scikit-image.org/docs/stable/auto_examples/applications/plot_morphology.html)
+
 [Virtual reality](http://www.wzona.info/2014/02/artoolkit-ir-opencv-panaudojimas.html)
